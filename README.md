@@ -3,6 +3,14 @@
 #### Using an LSTM machine model to predict the prices of Bitcoin, Ethereum, and SPY over the next 365 days
 Slide Presentation: https://docs.google.com/presentation/d/1CC2Po0kCFion2GMhL2tDt-QxpxxH7qPPQLVvX-93Mws/edit
 
+## For Github Readers: File Outline
+- Typical Gitignore Files
+- The main data file is named "Crypto_Data_2020_2025" in csv format
+- This data was then separated into individual csvs for potential analysis: Bitcoin, Ethereum, Litecoin, Dogecoin, SPY (SP500 etf), CRP, and inflation data.
+- We ran individual jupyter notebook files for Bitcoin, Ethereum, and SPY two times, one for training/testing and the other for predicting.
+- There is a prediction graps folder which shows training/testing and forecasting for Bitcoin, Ethereum, and SPY.
+- 
+
 ## Why we used an LSTM Model?
 - LSTMs enable recurrent neural networks to recall inputs over a longer period of time
 - Normalize the data
