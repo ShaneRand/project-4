@@ -9,7 +9,7 @@ Slide Presentation: https://docs.google.com/presentation/d/1CC2Po0kCFion2GMhL2tD
 - This data was then separated into individual csvs for potential analysis: Bitcoin, Ethereum, Litecoin, Dogecoin, SPY (SP500 etf), CRP, and inflation data.
 - We ran individual jupyter notebook files for Bitcoin, Ethereum, and SPY two times, one for training/testing and the other for predicting.
 - There is a prediction graps folder which shows training/testing and forecasting for Bitcoin, Ethereum, and SPY.
-- There is folder at the filepath: my_dir/bitcoin_lstm. This is where we created a crypto optimization models with Keras Tuner, equopped with epochs, training losses, and validation losses.
+- There is folder at the filepath: my_dir/bitcoin_lstm. This is where we created a crypto optimization models with Keras Tuner, equipped with epochs, training losses, and validation losses.
 
 ## Why we used an LSTM Model?
 - LSTMs enable recurrent neural networks to recall inputs over a longer period of time
