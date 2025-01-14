@@ -1,5 +1,5 @@
 # Forecasting Cryptocurrency Prices
-### Forecasts made using Bloomberg's price data from 12/31/2019 - 1/1/2025
+### Forecasts made using Bloomberg's price data from 12/31/2019 - 1/6/2025
 #### Using an LSTM machine model to predict the prices of Bitcoin, Ethereum, and SPY over the next 365 days
 Slide Presentation: https://docs.google.com/presentation/d/1CC2Po0kCFion2GMhL2tDt-QxpxxH7qPPQLVvX-93Mws/edit
 
