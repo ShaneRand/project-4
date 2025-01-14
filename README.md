@@ -30,11 +30,8 @@ Why an LSTM Model?
 Which investment to make?
 That depends on your appetite for risk. If you trust the model and can buy BTC or Ethereum at less than the forecasted price, and can accept the riskiness of cryptocurrency, the returns since 2019 are great. Safer assets like SPY (index fund on SP500) or Fidelity's mutual fund, provide adequate returns over the same horizon.
 
-    Assumptions and Limitations
--LSTM models are susceptible to overfitting. 
-
--LSTMs are often known as "black-box" models, making it difficult to analyze how one arrives at particular decisions.
-
--LSTs on larger data sets can be very time intesive.
-
--Complexity: LSTMs have a more sophisticated architecture compared to other RNNs or feedforward neural networks. This complexity can make them more challenging to implement and tune.
+Assumptions and Limitations
+- LSTM models are susceptible to overfitting. 
+- LSTMs are often known as "black-box" models, making it difficult to analyze how one arrives at particular decisions.
+- LSTs on larger data sets can be very time intesive.
+- Complexity: LSTMs have a more sophisticated architecture compared to other RNNs or feedforward neural networks. This complexity can make them more challenging to implement and tune.
