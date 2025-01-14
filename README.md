@@ -5,14 +5,13 @@
 Slide Presentation: https://docs.google.com/presentation/d/1CC2Po0kCFion2GMhL2tDt-QxpxxH7qPPQLVvX-93Mws/edit
 
 Why an LSTM Model?
-    LSTMs enable recurrent neural networks to recall inputs over a longer period of time
-    Normalize the data
-    Using a 60 period lookback
-    Training 75%, Testing 25%
-    Forecasting Future  Prices for next 360 days
-    RNNs are a robust and powerful type of neural network and are considered one of the most professional algorithms because they are the only ones with internal memory.
-
-    Long short-term memory networks are an extension of recurrent neural networks, which basically extend the memoryX_train and Y_train will be used to train the LSTM model, while X_test and Y_test will be used to evaluate its performance.
+    - LSTMs enable recurrent neural networks to recall inputs over a longer period of time. 
+    - Normalize the data. 
+    - Using a 60 period lookback.
+    - Training 75%, Testing 25%.
+    - Forecasting Future  Prices for next 365 days.
+    - RNNs are a robust and powerful type of neural network and are considered one of the most professional algorithms because they are the only ones with internal memory.
+    - Long short-term memory networks are an extension of recurrent neural networks, which basically extend the memoryX_train and Y_train will be used to train the LSTM model, while X_test and Y_test will be used to evaluate its performance.
 
 ![BTC Training/Testing](https://github.com/ShaneRand/project-4/blob/main/prediction_graphs/bitcoin_prediction.png)
 
